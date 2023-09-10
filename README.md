@@ -1,2 +1,2 @@
 # bash_aliases
-Where I keep my list of useful bash asliases
+Where I keep my list of useful bash aliases
